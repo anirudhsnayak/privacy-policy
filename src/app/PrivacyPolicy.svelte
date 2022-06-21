@@ -13,7 +13,7 @@
     </p>
     <ul>
     
-    <li>Visit our website at <a href="https://anirudhsnayak.github.io/college-results/">https://anirudhsnayak.github.io/college-results/</a>, or any website of ours that links to this privacy notice
+    <li>Visit our website at <a href="https://anirudhsnayak.github.io/">https://anirudhsnayak.github.io/college-results/</a>, or any website of ours that links to this privacy notice
     
     <li>Engage with us in other related ways, including any sales, marketing, or events
     </li>
